@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Optional: Styling leaflet popup */
+.leaflet-popup-content-wrapper {
+  border-radius: 12px;
+}
